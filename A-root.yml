@@ -1,0 +1,1042 @@
+ASN: 7342
+BGP Community Convention: ''
+BGP Extended Community Convention: ''
+BGP Large Community Convention: ''
+Contact Email: rootdns@verisign.com
+Homepage: https://a.root-servers.org/
+IPv4: 198.41.0.4
+IPv6: 2001:503:ba3e::2:30
+Identifier Naming Convention: ''
+Operator: Verisign, Inc.
+Peering Policy: https://www.peeringdb.com/net/873
+RSSAC001: https://a.root-servers.org/aroot-rssac001v2-expectations.pdf
+RSSAC002: https://a.root-servers.org/rssac-metrics/raw
+Sites:
+- BGP Intermediate AS: null
+  BGP Origin AS: 396567
+  BGP Site Identifier: ''
+  Country: NL
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5b9a80e2b393f30718abcb9f
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a6.nl-ams.root
+  - n6.nl-ams.root
+  Instances: 1
+  Latitude: 52.3702157
+  Longitude: 4.8951679
+  Status: ''
+  Town: Amsterdam
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396566
+  BGP Site Identifier: ''
+  Country: NL
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5b9a809976e081071eefa00f
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a5.nl-ams.root
+  - n5.nl-ams.root
+  Instances: 1
+  Latitude: 52.3702157
+  Longitude: 4.8951679
+  Status: ''
+  Town: Amsterdam
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 32651
+  BGP Site Identifier: ''
+  Country: NL
+  Created: '2024-03-27T22:21:49Z'
+  ID: 63f68fd17020793a94e9475f
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a4.nl-ams.root
+  - n4.nl-ams.root
+  Instances: 1
+  Latitude: 52.3702157
+  Longitude: 4.8951679
+  Status: ''
+  Town: Amsterdam
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396613
+  BGP Site Identifier: ''
+  Country: NL
+  Created: '2024-03-27T22:21:49Z'
+  ID: 617aa9c23abb652391eab192
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1a.nl-ams.root
+  - n1a.nl-ams.root
+  Instances: 1
+  Latitude: 52.3702157
+  Longitude: 4.8951679
+  Status: ''
+  Town: Amsterdam
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396587
+  BGP Site Identifier: ''
+  Country: NL
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5f3c0c0a56cd0217de266cc4
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.nl-ams.root
+  - n1.nl-ams.root
+  Instances: 1
+  Latitude: 52.3702157
+  Longitude: 4.8951679
+  Status: ''
+  Town: Amsterdam
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 10515
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 626981896659fc5761b482cd
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.us-iad.root
+  - n1.us-iad.root
+  Instances: 1
+  Latitude: 39.0437567
+  Longitude: -77.4874416
+  Status: ''
+  Town: Ashburn
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 10515
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 61546debb1ef3a6378b3ed42
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a21-a.us-qas.root
+  - n21-a.us-qas.root
+  Instances: 1
+  Latitude: 39.0437567
+  Longitude: -77.4874416
+  Status: ''
+  Town: Ashburn
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 10515
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2025-07-10T16:23:24Z'
+  ID: 67f5574d7fbd74aa184b2cc3
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a23-1a.us-qas.root
+  - n23-1a.us-qas.root
+  Instances: 1
+  Latitude: 39.0437567
+  Longitude: -77.4874416
+  Status: ''
+  Town: Ashburn
+  Type: Global
+  Updated: '2025-07-10T16:23:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 397203
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 6477564617cf0d7fd62ca734
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a4.us-iad.root
+  - n4.us-iad.root
+  Instances: 1
+  Latitude: 39.0437567
+  Longitude: -77.4874416
+  Status: ''
+  Town: Ashburn
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 36630
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 63692480f5a43d3a4107d83b
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a3.us-iad.root
+  - n3.us-iad.root
+  Instances: 1
+  Latitude: 39.0437567
+  Longitude: -77.4874416
+  Status: ''
+  Town: Ashburn
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396580
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5ec3e3f6530b9738613d64c3
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.us-lax.root
+  - n1.us-lax.root
+  Instances: 1
+  Latitude: 34.0522342
+  Longitude: -118.2436849
+  Status: ''
+  Town: El Segundo
+  Type: Global
+  Updated: '2025-04-22T23:39:05Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 36625
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5ecd42fd19a99f4490c1b4b2
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.de-fra.root
+  - n1.de-fra.root
+  Instances: 1
+  Latitude: 50.1109221
+  Longitude: 8.6821267
+  Status: ''
+  Town: Frankfurt
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 397209
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-03-27T22:21:49Z'
+  ID: 640f2bf6b5e0b050e7a6d503
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a6.de-fra.root
+  - n6.de-fra.root
+  Instances: 1
+  Latitude: 50.1109221
+  Longitude: 8.6821267
+  Status: ''
+  Town: Frankfurt
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396560
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-03-27T22:21:49Z'
+  ID: 656a17d714bce61035872a9d
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1a.de-fra.root
+  - n1a.de-fra.root
+  Instances: 1
+  Latitude: 50.1109221
+  Longitude: 8.6821267
+  Status: ''
+  Town: Frankfurt
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 397197
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-03-27T22:21:49Z'
+  ID: 640f2bbb6906d9540a7ed9f0
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a4.de-fra.root
+  - n4.de-fra.root
+  Instances: 1
+  Latitude: 50.1109221
+  Longitude: 8.6821267
+  Status: ''
+  Town: Frankfurt
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 397196
+  BGP Site Identifier: ''
+  Country: DE
+  Created: '2024-03-27T22:21:49Z'
+  ID: 640f2b7ae75f3d3b33c6839b
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a3.de-fra.root
+  - n3.de-fra.root
+  Instances: 1
+  Latitude: 50.1109221
+  Longitude: 8.6821267
+  Status: ''
+  Town: Frankfurt
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396710
+  BGP Site Identifier: ''
+  Country: CN
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5fb6f9ffa55aae034a7a3df9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a8.cn-bjs.root
+  - n8.cn-bjs.root
+  Instances: 1
+  Latitude: 23.1301964
+  Longitude: 113.2592945
+  Status: ''
+  Town: Guangzhou
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396551
+  BGP Site Identifier: ''
+  Country: GB
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5b61d6c49fa77e0ac249acb1
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.gb-lon.root
+  - n1.gb-lon.root
+  Instances: 1
+  Latitude: 51.5073509
+  Longitude: -0.1277583
+  Status: ''
+  Town: London
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396591
+  BGP Site Identifier: ''
+  Country: GB
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5f64cf431c138531612c9e70
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.gb-lon.root
+  - n1.gb-lon.root
+  Instances: 1
+  Latitude: 51.5073509
+  Longitude: -0.1277583
+  Status: ''
+  Town: London
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396549
+  BGP Site Identifier: ''
+  Country: GB
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5b61f2e6f569b06fd13d1b6b
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a8.gb-lon.root
+  - n8.gb-lon.root
+  Instances: 1
+  Latitude: 51.5073509
+  Longitude: -0.1277583
+  Status: ''
+  Town: London
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396550
+  BGP Site Identifier: ''
+  Country: GB
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5b61f323748e9e22f3644f82
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a9.gb-lon.root
+  - n9.gb-lon.root
+  Instances: 1
+  Latitude: 51.5073509
+  Longitude: -0.1277583
+  Status: ''
+  Town: London
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396545
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5b28253293b23c3266abe570
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a8.us-lax.root
+  - n8.us-lax.root
+  Instances: 1
+  Latitude: 34.0522342
+  Longitude: -118.2436849
+  Status: ''
+  Town: LOS ANGELES
+  Type: Local
+  Updated: '2025-04-22T23:39:05Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396544
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5b22c7954ebf4e1b53092b20
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a7.us-lax.root
+  - n7.us-lax.root
+  Instances: 1
+  Latitude: 34.0522342
+  Longitude: -118.2436849
+  Status: ''
+  Town: LOS ANGELES
+  Type: Local
+  Updated: '2025-04-22T23:39:05Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396543
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5b22c78f00a2fd3c7147314d
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a6.us-lax.root
+  - n6.us-lax.root
+  Instances: 1
+  Latitude: 34.0522342
+  Longitude: -118.2436849
+  Status: ''
+  Town: LOS ANGELES
+  Type: Global
+  Updated: '2025-04-22T23:39:05Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396608
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 6164782ef73ffb5c5a5826b9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1a.us-lax.root
+  - n1a.us-lax.root
+  Instances: 1
+  Latitude: 34.0522342
+  Longitude: -118.2436849
+  Status: ''
+  Town: LOS ANGELES
+  Type: Global
+  Updated: '2025-04-22T23:39:05Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396583
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5f04a4ac8dea8505eea527c9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.us-mnz.root
+  - n1.us-mnz.root
+  Instances: 1
+  Latitude: 38.7509488
+  Longitude: -77.4752667
+  Status: ''
+  Town: Manassas
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396600
+  BGP Site Identifier: ''
+  Country: FR
+  Created: '2024-03-27T22:21:49Z'
+  ID: 61f97fe609201139ca553f2b
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a3.fr-mrs.root
+  - n3.fr-mrs.root
+  Instances: 1
+  Latitude: 43.2961743
+  Longitude: 5.3699525
+  Status: ''
+  Town: Marseille
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396599
+  BGP Site Identifier: ''
+  Country: FR
+  Created: '2024-03-27T22:21:49Z'
+  ID: 61f9c1d4643edb39c9c738c0
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a2.fr-mrs.root
+  - n2.fr-mrs.root
+  Instances: 1
+  Latitude: 43.2961743
+  Longitude: 5.3699525
+  Status: ''
+  Town: Marseille
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396555
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5b72c52dac7a3a22e18cfc5c
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a5.us-mia.root
+  - n5.us-mia.root
+  Instances: 1
+  Latitude: 25.7616798
+  Longitude: -80.1917902
+  Status: ''
+  Town: Miami
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396579
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 61ae2e0074d1c725e5ffaad1
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.us-mia.root
+  - n1.us-mia.root
+  Instances: 1
+  Latitude: 25.7616798
+  Longitude: -80.1917902
+  Status: ''
+  Town: Miami
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396577
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 5e330794540cfe067895bb4d
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a6.us-mia.root
+  - n6.us-mia.root
+  Instances: 1
+  Latitude: 25.7616798
+  Longitude: -80.1917902
+  Status: ''
+  Town: Miami
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 19836
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2025-07-10T16:23:24Z'
+  ID: 681cb2869d4bb1c48360b28e
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a2c.us-nyc.root
+  - n2c.us-nyc.root
+  Instances: 1
+  Latitude: 40.7127837
+  Longitude: -74.0059413
+  Status: ''
+  Town: New York
+  Type: Global
+  Updated: '2025-07-10T16:23:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 19836
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2025-07-10T16:23:24Z'
+  ID: 681d1834c67203bbfc7b26a9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a2b.us-nyc.root
+  - n2b.us-nyc.root
+  Instances: 1
+  Latitude: 40.7127837
+  Longitude: -74.0059413
+  Status: ''
+  Town: New York
+  Type: Global
+  Updated: '2025-07-10T16:23:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 19836
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2025-07-10T16:23:24Z'
+  ID: 681d17db152e07f32f3853a6
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a2a.us-nyc.root
+  - n2a.us-nyc.root
+  Instances: 1
+  Latitude: 40.7127837
+  Longitude: -74.0059413
+  Status: ''
+  Town: New York
+  Type: Global
+  Updated: '2025-07-10T16:23:24Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 21313
+  BGP Site Identifier: ''
+  Country: FR
+  Created: '2024-03-27T22:21:49Z'
+  ID: 620a7c7120a44a575a13c24e
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.fr-par.root
+  - n1.fr-par.root
+  Instances: 1
+  Latitude: 48.856614
+  Longitude: 2.3522219
+  Status: ''
+  Town: Paris
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396547
+  BGP Site Identifier: ''
+  Country: FR
+  Created: '2024-03-27T22:21:49Z'
+  ID: 5b33dc998ca6da3c7e8f2e7e
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a6.fr-par.root
+  - n6.fr-par.root
+  Instances: 1
+  Latitude: 48.856614
+  Longitude: 2.3522219
+  Status: ''
+  Town: Paris
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 20172
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 63e685b2b157ae38bb7b0387
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.us-plz.root
+  - n1.us-plz.root
+  Instances: 1
+  Latitude: 33.0198431
+  Longitude: -96.6988856
+  Status: ''
+  Town: Plano
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396540
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 5b22c7842ef8b1623a3f1617
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a7.us-plz.root
+  - n7.us-plz.root
+  Instances: 1
+  Latitude: 33.0198431
+  Longitude: -96.6988856
+  Status: ''
+  Town: Plano
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396541
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 5b22c7887172b13e823acb33
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a8.us-plz.root
+  - n8.us-plz.root
+  Instances: 1
+  Latitude: 33.0198431
+  Longitude: -96.6988856
+  Status: ''
+  Town: Plano
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396542
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 5b22c78b2ef8b1623a3f161e
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a9.us-plz.root
+  - n9.us-plz.root
+  Instances: 1
+  Latitude: 33.0198431
+  Longitude: -96.6988856
+  Status: ''
+  Town: Plano
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 36617
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 5d72bf96bab0185527642eb9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.us-sjc.root
+  - n1.us-sjc.root
+  Instances: 1
+  Latitude: 37.3382082
+  Longitude: -121.8863286
+  Status: ''
+  Town: San Jose
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396571
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 5bcf239ac2b7c730d0ebd3ba
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.us-sjc.root
+  - n1.us-sjc.root
+  Instances: 1
+  Latitude: 37.3382082
+  Longitude: -121.8863286
+  Status: ''
+  Town: San Jose
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396576
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 5bc675bc7db1e30a7996639e
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a8.us-sjc.root
+  - n8.us-sjc.root
+  Instances: 1
+  Latitude: 37.3382082
+  Longitude: -121.8863286
+  Status: ''
+  Town: San Jose
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 397206
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 6511caf6a95f812b7334de16
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a4.us-sjc.root
+  - n4.us-sjc.root
+  Instances: 1
+  Latitude: 37.3382082
+  Longitude: -121.8863286
+  Status: ''
+  Town: San Jose
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396575
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 5c01aa018503cb23f2f9afc3
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a7.us-sea.root
+  - n7.us-sea.root
+  Instances: 1
+  Latitude: 47.6062095
+  Longitude: -122.3320708
+  Status: ''
+  Town: Seattle
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 397200
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 65524b535a806247add5953e
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.us-sea.root
+  - n1.us-sea.root
+  Instances: 1
+  Latitude: 47.6062095
+  Longitude: -122.3320708
+  Status: ''
+  Town: Seattle
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396574
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 5c01a99e8503cb23f2f9aee4
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a6.us-sea.root
+  - n6.us-sea.root
+  Instances: 1
+  Latitude: 47.6062095
+  Longitude: -122.3320708
+  Status: ''
+  Town: Seattle
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 397211
+  BGP Site Identifier: ''
+  Country: SG
+  Created: '2024-03-27T22:21:49Z'
+  ID: 6491b8cb811e3803685f408c
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1a.sg-sin.root
+  - n1a.sg-sin.root
+  Instances: 1
+  Latitude: 1.2800945
+  Longitude: 103.8509491
+  Status: ''
+  Town: Singapore
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396826
+  BGP Site Identifier: ''
+  Country: SG
+  Created: '2024-03-27T22:21:49Z'
+  ID: 600b3eb84e925b29f20affa9
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a5.sg-sin.root
+  - n5.sg-sin.root
+  Instances: 1
+  Latitude: 1.2800945
+  Longitude: 103.8509491
+  Status: ''
+  Town: Singapore
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396827
+  BGP Site Identifier: ''
+  Country: SG
+  Created: '2024-03-27T22:21:49Z'
+  ID: 600b3ec4c911c17e14d6d40d
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a6.sg-sin.root
+  - n6.sg-sin.root
+  Instances: 1
+  Latitude: 1.2800945
+  Longitude: 103.8509491
+  Status: ''
+  Town: Singapore
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396602
+  BGP Site Identifier: ''
+  Country: SE
+  Created: '2024-03-27T22:21:49Z'
+  ID: 61eec6b22771a03a3f48278a
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a2.se-sto.root
+  - n2.se-sto.root
+  Instances: 1
+  Latitude: 59.3293235
+  Longitude: 18.0685808
+  Status: ''
+  Town: Stockholm
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 25485
+  BGP Site Identifier: ''
+  Country: SE
+  Created: '2024-03-27T22:21:49Z'
+  ID: 61eebe81eb0eb5569f0b8806
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1.se-sto.root
+  - n1.se-sto.root
+  Instances: 1
+  Latitude: 59.3293235
+  Longitude: 18.0685808
+  Status: ''
+  Town: Stockholm
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396603
+  BGP Site Identifier: ''
+  Country: SE
+  Created: '2024-03-27T22:21:49Z'
+  ID: 61eec9577ae206392f32e79b
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a3.se-sto.root
+  - n3.se-sto.root
+  Instances: 1
+  Latitude: 59.3293235
+  Longitude: 18.0685808
+  Status: ''
+  Town: Stockholm
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 36623
+  BGP Site Identifier: ''
+  Country: JP
+  Created: '2024-03-27T22:21:49Z'
+  ID: 659c279dbae5113e85f8cb33
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a2.jp-tyo.root
+  - n2.jp-tyo.root
+  Instances: 1
+  Latitude: 35.6894875
+  Longitude: 139.6917064
+  Status: ''
+  Town: Tokyo
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396605
+  BGP Site Identifier: ''
+  Country: JP
+  Created: '2024-03-27T22:21:49Z'
+  ID: 62278721e910d01e54055786
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a1a.jp-tyo.root
+  - n1a.jp-tyo.root
+  Instances: 1
+  Latitude: 35.6894875
+  Longitude: 139.6917064
+  Status: ''
+  Town: Tokyo
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 36622
+  BGP Site Identifier: ''
+  Country: JP
+  Created: '2024-03-27T22:21:49Z'
+  ID: 659c28faf2c49f59e9d6049c
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a3.jp-tyo.root
+  - n3.jp-tyo.root
+  Instances: 1
+  Latitude: 35.6894875
+  Longitude: 139.6917064
+  Status: ''
+  Town: Tokyo
+  Type: Local
+  Updated: '2024-03-27T22:21:50Z'
+- BGP Intermediate AS: null
+  BGP Origin AS: 396563
+  BGP Site Identifier: ''
+  Country: US
+  Created: '2024-03-27T22:21:50Z'
+  ID: 5ba28342bee47c5e27b5fc8f
+  IPv4: true
+  IPv6: true
+  Identifiers:
+  - a2.us-was.root
+  - n2.us-was.root
+  Instances: 1
+  Latitude: 38.8950368
+  Longitude: -77.0365427
+  Status: ''
+  Town: Washington DC
+  Type: Global
+  Updated: '2024-03-27T22:21:50Z'
+Statistics: https://a.root-servers.org/metrics/index.html
+Updated: '2025-07-10T16:23:24Z'
